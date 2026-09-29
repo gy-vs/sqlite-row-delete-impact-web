@@ -1,0 +1,3 @@
+include README.md
+recursive-include sqlite_web *
+recursive-exclude * *.pyc
